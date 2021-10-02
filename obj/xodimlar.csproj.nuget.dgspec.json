@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\xodimlar.csproj": {}
+    "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\xodimlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\xodimlar.csproj": {
+    "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\xodimlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\xodimlar.csproj",
+        "projectUniqueName": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\xodimlar.csproj",
         "projectName": "xodimlar",
-        "projectPath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\xodimlar.csproj",
+        "projectPath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\xodimlar.csproj",
         "packagesPath": "C:\\Users\\ashot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\obj\\",
+        "outputPath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

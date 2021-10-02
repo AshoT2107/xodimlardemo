@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKAloFXpHb69tH47qJGrfzKH8GdC0aTzwJPUjLsv9CGrSEXbevm5QVXQgNMVR1A33+LVTaKR24fTkxL6tyd/Lg==",
+  "dgSpecHash": "qch5QZ8jbotcTj7XAJNy9VpOS4+CRkkJssfxGCCIqK2+ToXYuVA8/LeizKHqtwrBEwYW6a48MQwo1ysQZLaWJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar\\xodimlar.csproj",
+  "projectFilePath": "C:\\Users\\ashot\\source\\repos\\xodimlarbackend\\xodimlar2\\xodimlardemo\\xodimlar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashot\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\ashot\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
