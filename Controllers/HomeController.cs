@@ -24,7 +24,7 @@ namespace xodimlar.Controllers
         {
             return xodimlarDbContext.xodimlar;
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public string GetFirstName(int id)
         {
             Xodimlar res = xodimlarDbContext.xodimlar.FirstOrDefault(p => p.Id == id);
